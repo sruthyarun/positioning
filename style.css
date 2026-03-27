@@ -82,7 +82,7 @@ header
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-image: url(images/chatbtn.avif);
+    background-image: url(chatbtn.avif);
     background-repeat: no-repeat; 
     background-position: center; 
     background-size: cover; 
